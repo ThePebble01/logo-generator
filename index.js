@@ -1,6 +1,6 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-const Triangle = require("./lib/shapes");
+const { Triangle } = require("./lib/shapes");
 function init() {
   var svgTemplate = `<svg height="300" width="200" xmlns="http://www.w3.org/2000/svg">
   -=shape=-
