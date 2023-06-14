@@ -1,4 +1,4 @@
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-  <path fill="red"  d="M 150,0 L 0,300 L 300,300 z"/>
-  <text x="140" y="100">PAIN</text>
+<svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 150,0 L 0,300 L 300,300 z" fill="red"/>
+  <text x="140" y="100" fill="green">abc</text>
   </svg>
