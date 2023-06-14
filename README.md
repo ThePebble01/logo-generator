@@ -12,4 +12,4 @@
 
 Pull the repo down to your machine. Make sure node, npm, and inquirer are installed. Then open the terminal and navigate to the main directory of the repo. Finally, run 'node index.js' in the terminal to initiate the prompts.
 
-This video walks through using the app:
+This video walks through using the app: https://drive.google.com/file/d/1RK5brcYRcXOBAV4N5-O_riXL0Fau3ViL/view
